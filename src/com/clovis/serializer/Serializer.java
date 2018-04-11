@@ -5,10 +5,14 @@
  */
 package com.clovis.serializer;
 
+import com.eclipsesource.json.JsonObject;
+
 /**
  *
  * @author ivan
  */
 public class Serializer {
-    
+    public void test(){
+        JsonObject j = new JsonObject();
+    }
 }
